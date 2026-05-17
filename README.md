@@ -51,7 +51,7 @@ The dashboard is structured around three main analytical pillars:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](snapshot%20of%20dashboard.png.)
+![Dashboard Screenshot](snapshot of dashboard.png.png)
 
 ---
 
